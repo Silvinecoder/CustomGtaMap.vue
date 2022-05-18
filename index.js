@@ -1,3 +1,4 @@
+import express from 'express';
 const express = require('express'),
   path = require('path'),
   serveStatic = require('serve-static'),
